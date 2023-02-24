@@ -1,6 +1,6 @@
 "manpage for Simple_shell. Simple shell project to ALX-School.
-.TH man 1 "08 August 2022" "Simple Shell"
-"08 August 2022" "1.0"
+.TH man 1 "18 February 2023" "Simple Shell"
+"18 February 2023" "1.0"
 SH NAME
 ALX Simple Shell
 - A simple UNIX command line interpreter.
@@ -31,7 +31,7 @@ For example:
 .I To install:
 .br
 
-.B git clone https://github.com/Merdasa-Belay/simple_shell.git
+.B git clone https://github.com/Getsew7/simple_shell.git
 br
 
 .I Compile files using:
@@ -56,4 +56,4 @@ is based on the Thompson Shell program written by Ken Thompson.
 Only one error message will print upon failure. If any further bugs are found please contact the authors.
 
 .SH BUGS
-written by Merdasa belay & robel derbe
+written by Getasew Lakew & Meron Bekele
